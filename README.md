@@ -1,6 +1,7 @@
 # 🎬 Netflix SQL Analysis
 
 A portfolio project that explores the Netflix Movies and TV Shows dataset using PostgreSQL to answer real-world business questions.
+![Netflix logo](images/netflix_logo.jpg)
 
 ---
 

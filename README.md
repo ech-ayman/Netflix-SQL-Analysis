@@ -37,8 +37,8 @@ Netflix-SQL-Analysis/
 │
 ├── images/
 │   ├── longest-movie.png
-│   ├── top-5-countries-with-content.png
-│   ├── top-10-actors-appeared-in-movies.png
+│   ├── actors-in-movies.png
+│   ├── content-added.png
 │   └── ...
 │
 └── README.md
